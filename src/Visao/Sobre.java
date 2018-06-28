@@ -54,7 +54,7 @@ public class Sobre extends javax.swing.JFrame {
 
         jLabel7.setFont(new java.awt.Font("Ubuntu", 0, 12)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(58, 148, 168));
-        jLabel7.setText("https://github.com/wellysonvie/SimpleJavaCompiler");
+        jLabel7.setText("https://github.com/robsonalucard/CompiladorFinal");
 
         jButton1.setText("Fechar");
         jButton1.addMouseListener(new java.awt.event.MouseAdapter() {
